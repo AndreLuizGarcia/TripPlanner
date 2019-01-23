@@ -1,6 +1,6 @@
 # TripPlanner
 
-TripPlanner is app build in a Hands-on React-Native by DevPleno.
+TripPlanner is app builded in Hands-on React-Native by DevPleno.
 
 # Figma
 
