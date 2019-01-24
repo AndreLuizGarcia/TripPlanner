@@ -24,6 +24,8 @@ https://www.figma.com/
 
 - [React-Native TouchableOpacity](https://facebook.github.io/react-native/docs/touchableopacity)
 
+- [React-Native AsyncStorage](https://facebook.github.io/react-native/docs/asyncstorage)
+
 - [React-Native Maps](https://github.com/react-native-community/react-native-maps)
 
 - [Google Maps API](https://cloud.google.com/maps-platform/?hl=pt-br)
